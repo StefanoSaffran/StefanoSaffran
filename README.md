@@ -5,21 +5,27 @@
 
 <blockquote align="center">“You are never too old to set another goal or to dream a new dream.”!</blockquote>
 
-<p align="left">
-  <a href="https://stefanosaffran.com" target="_blank" >
+<p align="center">
+  <a href="https://app.rocketseat.com.br/me/stefanosaffran" target="_blank" >
+    <img alt="Rocketseat - Stefano Saffran" src="  https://img.shields.io/badge/-Stefano Saffran-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
+  </a>
+</p>
+
+<a href="https://stefanosaffran.com" target="_blank" >
   <img align="right" alt="Website - Stefano Saffran" src="https://img.shields.io/badge/-Website-222?style=flat-square&link=https://stefanosaffran.com">
 </a>
 
 <a href="mailto:stefanoas@gmail.com" target="_blank" >
   <img align="right" alt="Gmail - Stefano Saffran" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stefanoas@gmail.com&longCache=true">
 </a>
+
  <img src="https://komarev.com/ghpvc/?username=stefanosaffran" alt="stefanosaffran" /> </p>
 
 - 🌱 I’m currently learning **Node and React**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/StefanoSaffran](https://github.com/StefanoSaffran)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
 
 - 💬 Ask me about **Programming related stuff, TV Series, Movies, Games, Sports, Books and so on..**
 
