@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Node and React**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
 
