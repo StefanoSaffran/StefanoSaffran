@@ -33,10 +33,10 @@
 <img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=stefanosaffran&count_private=true&show_icons=true&hide=issues&theme=dracula" />
 
 - 🚀 JavaScript, React, React Native, Next.js and Node
-- 👯 I’m looking to collaborate on **Interesting Projects**
 - 💬 Ask me about **Programming related stuff, TV Series, Movies, Games, Sports, Books and so on...**
-- 🤝 Always open to collaborate
+- 📫 How to reach me: **stefanoas@gmail.com or Discord - Stefano Saffran#1139**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
+- 🤝 Always open to collaborate
 
 <br>
 
