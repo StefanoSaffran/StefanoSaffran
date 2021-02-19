@@ -12,7 +12,7 @@
 <br>
 <div align="center">
   <a href="https://app.rocketseat.com.br/me/stefanosaffran" target="_blank" >
-    <img alt="Perfil Rocketseat - Stefano Saffran" src="  https://img.shields.io/badge/-StefanoSaffran-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
+    <img alt="Rocketseat profile - Stefano Saffran" src="https://img.shields.io/badge/-StefanoSaffran-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
   </a>
 </div>
 
@@ -21,29 +21,28 @@
 </a>
 
 <a href="mailto:stefanoas@gmail.com" target="_blank" >
-  <img align="right" alt="Gmail - Stefano Saffran" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stefanoas@gmail.com&longCache=true">
+  <img align="right" style="margin-right: 10px" alt="Gmail - Stefano Saffran" src="https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=c14438&link=mailto:stefanoas@gmail.com&longCache=true">
 </a>
 
- <img src="https://komarev.com/ghpvc/?username=stefanosaffran" alt="stefanosaffran" /> </p>
+<a href="https://linkedin.com/in/stefanosaffran" target="_blank" >
+  <img align="right" style="margin-right: 10px" alt="Gmail - Stefano Saffran" src="https://img.shields.io/badge/-Stefano%20Saffran-blue?style=social&logo=Linkedin&logoColor=blue">
+</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanosaffran&count_private=true&show_icons=true&hide=issues" />
+ <img align="left" src="https://komarev.com/ghpvc/?username=stefanosaffran" alt="stefanosaffran" /><br>
+
+<img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=stefanosaffran&count_private=true&show_icons=true&hide=issues&theme=dracula" />
 
 - 🚀 JavaScript, React, React Native, Next.js and Node
 - 👯 I’m looking to collaborate on **Interesting Projects**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
 - 💬 Ask me about **Programming related stuff, TV Series, Movies, Games, Sports, Books and so on...**
 - 📫 How to reach me: **stefanoas@gmail.com or Discord - Stefano Saffran#1139**
 - 🤝 Always open to collaborate
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
 
 <br>
 <br>
 
 <div align="center">
-<a href="https://twitter.com/stefanosaffran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stefanosaffran" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/stefanosaffran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefanosaffran" height="30" width="30" /></a>
+   <img  src="https://github-profile-trophy.vercel.app/?username=stefanosaffran&theme=dracula&no-frame=true&margin-w=30&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
-
-<!-- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=stefanosaffran&theme=flat&no-frame=true&margin-w=30" />
-</div>
