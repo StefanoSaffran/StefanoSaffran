@@ -9,13 +9,13 @@
 </h3>
 
 <blockquote align="center">“You are never too old to set another goal or to dream a new dream.”! C.S. Lewis</blockquote>
-<br>
+
 <div align="center">
   <a href="https://app.rocketseat.com.br/me/stefanosaffran" target="_blank" >
     <img alt="Rocketseat profile - Stefano Saffran" src="https://img.shields.io/badge/-StefanoSaffran-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
   </a>
 </div>
-
+<br>
 <a href="https://stefanosaffran.com" target="_blank" >
   <img align="right" alt="Website - Stefano Saffran" src="https://img.shields.io/badge/-Website-222?style=flat-square&link=https://stefanosaffran.com">
 </a>
@@ -30,7 +30,7 @@
 
  <img align="left" src="https://komarev.com/ghpvc/?username=stefanosaffran" alt="stefanosaffran" /><br>
 
-<img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=stefanosaffran&count_private=true&show_icons=true&hide=issues&theme=dracula" />
+<img align="right" style="width: 30%" src="https://github-readme-stats.vercel.app/api?username=stefanosaffran&count_private=true&show_icons=true&hide=issues&theme=dracula" />
 
 - 🚀 JavaScript, React, React Native, Next.js and Node
 - 👯 I’m looking to collaborate on **Interesting Projects**
@@ -39,7 +39,6 @@
 - 🤝 Always open to collaborate
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
 
-<br>
 <br>
 
 <div align="center">
