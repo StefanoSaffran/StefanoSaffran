@@ -35,12 +35,12 @@
 - 🚀 JavaScript, React, React Native, Next.js and Node
 - 💬 Ask me about **Programming related stuff, TV Series, Movies, Games, Sports, Books and so on...**
 - 📫 How to reach me: **stefanoas@gmail.com or Discord - Stefano Saffran#1139**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran)
+<!-- - 👨‍💻 All of my projects are available at [GitHub](https://github.com/StefanoSaffran) -->
 - 🤝 Always open to collaborate
 
-<br>
+<!-- <br>
 
 <div align="center">
    <img  src="https://github-profile-trophy.vercel.app/?username=stefanosaffran&theme=dracula&no-frame=true&margin-w=30&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</div>
+</div> -->
 
